@@ -17,5 +17,5 @@ To start the game, run the following command:
 ```bash
 python chess_game_2D.py
 ```
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
